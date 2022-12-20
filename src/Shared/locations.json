@@ -1,0 +1,50 @@
+[
+    {
+        "country": "Algeria",
+        "hackerspace": "Val D'hydra Hackerspace",
+        "lat": "36.761604113141296",
+        "lng": "3.0245786260192915"
+    },
+    {
+        "country": "Algeria",
+        "hackerspace": "Babezzouar Hackerspace",
+        "lat": "36.71498735657947",
+        "lng": "3.188983567122313"
+    },
+    {
+        "country": "Tunisia",
+        "hackerspace": "Tunis Centre Ville Hackerspace",
+        "lat": "36.799375599856475",
+        "lng": "10.177669553004492"
+    },
+    {
+        "country": "Tunisia",
+        "hackerspace": "Sousse Hackerspace",
+        "lat": "35.8565974878757",
+        "lng": "10.593443478638886"
+    },
+    {
+        "country": "Morocco",
+        "hackerspace": "Casablanca Hackerspace",
+        "lat": "33.592251759583725",
+        "lng": "-7.629009102914196"
+    },
+    {
+        "country": "Egypt",
+        "hackerspace": "Caire Hackerspace",
+        "lat": "30.04496083746995",
+        "lng": "31.238702796987226"
+    },
+    {
+        "country": "Nigeria",
+        "hackerspace": "Lagos Hackerspace",
+        "lat": "6.4504648182172035",
+        "lng": "3.4448392471272413"
+    },
+    {
+        "country": "Senegal",
+        "hackerspace": "Dakar Hackerspace",
+        "lat": "14.697122656938705",
+        "lng": "-17.456942818646755"
+    }
+]
